@@ -8,11 +8,13 @@ public class SwitchCase {
 
 		// SoftdrinkVendingMachine
 
+		Scanner sc = new Scanner(System.in);
 		boolean flag = true;
+		
 		loop1: while (flag) {
 			System.out.println(
 					"\nEnter 0 to EXIT\nEnter 1 for Coke\nEnter 2 for ButterMilk\nEnter 3 for Frooti\nEnter 4 for Water");
-			Scanner sc = new Scanner(System.in);
+			
 			int choice = sc.nextInt();
 
 			switch (choice) {
@@ -42,6 +44,7 @@ public class SwitchCase {
 			}
 		}
 
+		sc.close();
 		System.out.println("ENDD");
 
 	}

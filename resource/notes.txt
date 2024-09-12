@@ -1,0 +1,8 @@
+OOPS
+Object Oriented Programming System
+
+
+Object:
+- Real World Entities
+- Instance of classes
+
