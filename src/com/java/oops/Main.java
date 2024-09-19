@@ -14,6 +14,7 @@ public class Main {
 //		Case 1 you are passing/initialize some value
 //		case2 you are not passing/initializing some value :: they will get default values
 
+
 		System.out.println(c1.brand);// null
 		System.out.println(c1.topSpeed);
 		System.out.println(c1.mielage);
