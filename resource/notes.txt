@@ -6,3 +6,9 @@ Object:
 - Real World Entities
 - Instance of classes
 
+
+OOPS
+- Encapsulation
+- Polymorphism
+- Inheritance
+- Abstraction
